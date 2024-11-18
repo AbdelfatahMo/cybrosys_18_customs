@@ -53,7 +53,7 @@ h2, h3 {
     max-width: 100% !important;
 }
 
-.tile {
+/* .tile {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -62,7 +62,7 @@ h2, h3 {
     border-radius: 5px;
     cursor: pointer;
     transition: transform 0.2s;
-}
+} */
 
 div.card-header {
     color: #383838;
