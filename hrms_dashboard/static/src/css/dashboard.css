@@ -1,6 +1,6 @@
-.o_action_manager{
+/* .o_action_manager{
 overflow: auto !important;
-}
+} */
 
 .oh_dashboards{
     padding-top :15px;
@@ -10,15 +10,15 @@ overflow: auto !important;
 .oh-card h4 {
     font-size: 1.1rem;
 }
-.breadcrumbs {
+/* .breadcrumbs {
     margin-top: 0;
-}
+} */
 
-.buttons button {
-  margin: 2px 0; }
+/* .buttons button {
+  margin: 2px 0; } */
 
 /* Button Reset */
-.btn, .button {
+/* .btn, .button {
   display: inline-block;
   font-weight: 400;
   text-align: center;
@@ -26,7 +26,7 @@ overflow: auto !important;
   vertical-align: middle;
   transition: all .15s ease-in-out;
   border-radius: 0;
-  cursor: pointer; }
+  cursor: pointer; } */
 
 
 /*    Widget One
@@ -73,7 +73,7 @@ overflow: auto !important;
   text-align: center;
   color: #00438b; }
 
-.mb-0{
+/* .mb-0{
     font-size: 1.083rem;
     position: relative;
     text-align: center;
@@ -82,14 +82,14 @@ overflow: auto !important;
     font-size: 1.083rem;
     text-align: center;
     color: rgba(255, 255, 255, 0.81);
-}
-.hr_birthday {
+} */
+/* .hr_birthday {
     font-size: 28px;
     text-align: center;
     padding: 20px 0;
     color: #00438b;
     font-weight: 600;
-}
+} */
 body .text-color {
     color: black;
 }
@@ -778,13 +778,13 @@ h4 .stat-count {
     transform: translateY(-2px) translateZ(0) !important;
     box-shadow: 0 10px 10px 0 rgba(62, 57, 107, 0.12), 0 0 0 transparent !important;
 }
-.hr_birthday {
+/* .hr_birthday {
     font-size: 17px;
     text-align: center;
     padding: 20px 0;
     color: #00438b;
     font-weight: 300;
-}
+} */
 /*.hr_notification img {
     width: 40px;
     height: 40px;

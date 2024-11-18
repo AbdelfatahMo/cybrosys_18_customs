@@ -64,18 +64,18 @@
         # 'hr_reminder'
     ],
     'data': [
-        'views/menu_arrangement_view.xml',
-        'views/hr_config_view.xml',
+        # 'views/menu_arrangement_view.xml',
+        # 'views/hr_config_view.xml',
         'views/ir_ui_menu_views.xml',
-        'views/hr_employee_views.xml'
+        # 'views/hr_employee_views.xml'
     ],
     'assets': {
         'web.assets_backend': [
-            'ohrms_core/static/src/css/menu_order_alphabets.css',
+            'web_response_test/static/src/css/menu_order_alphabets.css',
             'web/static/lib/jquery/jquery.js',
-            'ohrms_core/static/src/js/appMenu.js',
-            'ohrms_core/static/src/xml/link_view.xml',
-            'ohrms_core/static/templates/side_bar.xml'
+            'web_response_test/static/src/js/appMenu.js',
+            'web_response_test/static/src/xml/link_view.xml',
+            'web_response_test/static/templates/side_bar.xml'
         ],
     },
     "external_dependencies": {"python": ["pandas"]},
