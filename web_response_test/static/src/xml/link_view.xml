@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <templates id="template" xml:space="preserve">
-<!--UserMenu Template-->
+<!-- UserMenu Template
     <t t-name="ohrms_core.UserMenu" t-extend="UserMenu">
         <t t-jquery="div.dropdown-menu" t-operation="replace">
             <div class="dropdown-menu" role="menu">
@@ -12,7 +12,7 @@
                 <a role="menuitem" href="#" data-menu="logout" class="dropdown-item">Log out</a>
             </div>
         </t>
-    </t>
+    </t> -->
 <!--Search Result template-->
     <t t-name="ohrms_core.SearchResults">
         <t t-foreach="results" t-as="result" t-key="result.id">
