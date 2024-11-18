@@ -6,7 +6,7 @@
   --red: #F1536E;
   --yellow: #FDA006;
   /*Fonts*/
-  --primary-font: 'Roboto', sans-serif;
+  // --primary-font: 'Roboto', sans-serif;
 }
 
 html .o_web_client > .o_action_manager {
@@ -128,9 +128,9 @@ text-shadow: 0px 0px 5px #9388ff;
     margin-bottom: 12px !important;
   }
 
-  h3 {
-    color: #909090;
-  }
+  // h3 {
+  //   color: #909090;
+  // }
 
   div.dropdown-addblock {
     color: #909090;
@@ -142,22 +142,22 @@ text-shadow: 0px 0px 5px #9388ff;
     background-color: #979797 !important;
   }
 
-  div.card-body {
-    border-radius: 0.5em !important;
-    background-color: #2a2a2a !important;
-  }
+  // div.card-body {
+  //   border-radius: 0.5em !important;
+  //   background-color: #2a2a2a !important;
+  // }
 
-  .o_kanban_record {
-    background-color: #e8e8e8 !important;
-  }
+  // .o_kanban_record {
+  //   background-color: #e8e8e8 !important;
+  // }
 
-  .o_kanban_renderer {
-    background-color: #e8e8e8 !important;
-  }
+  // .o_kanban_renderer {
+  //   background-color: #e8e8e8 !important;
+  // }
 
-  .oe_module_name {
-    background-color: #ffffff !important;
-  }
+  // .oe_module_name {
+  //   background-color: #ffffff !important;
+  // }
 
   background-color: #1C1B1B;
   @media (max-width: 767px) {

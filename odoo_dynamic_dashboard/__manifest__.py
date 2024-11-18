@@ -45,7 +45,7 @@
         'web.assets_backend': [
             'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js',
             'odoo_dynamic_dashboard/static/src/css/**/*.css',
-            # 'odoo_dynamic_dashboard/static/src/scss/**/*.scss',
+            'odoo_dynamic_dashboard/static/src/scss/**/*.scss',
             'odoo_dynamic_dashboard/static/src/js/**/*.js',
             'odoo_dynamic_dashboard/static/src/xml/**/*.xml',
             'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css',
